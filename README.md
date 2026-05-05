@@ -16,11 +16,4 @@ El proyecto está organizado de la siguiente manera:
 * **data/** - Datos experimentales en formato .csv
 * **figures/** - Gráficos y diagramas de los resultados
 * **docs/** - Informes y documentación en LaTeX (Overleaf)
-* **vhdl/** - Archivos de configuración del hardware (plantilla)
 
-## Requisitos Previos
-
-Antes de ejecutar los scripts, asegúrate de tener instaladas las librerías necesarias. Puedes instalarlas ejecutando en tu terminal:
-
-```bash
-pip install pyadi-iio numpy matplotlib
