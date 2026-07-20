@@ -14,6 +14,6 @@ El proyecto está organizado de la siguiente manera:
   * `fft_analyzer.py` - Análisis y visualización de la FFT
   * `loopback_test.py` - Script principal de validación (Loopback TX/RX)
 * **data/** - Datos experimentales en formato .csv
-* **figures/** - Gráficos y diagramas de los resultados
+* **figures/** - Gráficos, diagramas de los resultados y video demostrativo
 * **docs/** - Informes y documentación en LaTeX (Overleaf)
 
